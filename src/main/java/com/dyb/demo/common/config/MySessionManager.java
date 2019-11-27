@@ -12,8 +12,8 @@ import javax.servlet.ServletResponse;
 import java.io.Serializable;
 
 /**
- * @author tycoding
- * @date 2019-01-23
+ * @author dyb
+ * @date 2019-11-27
  */
 public class MySessionManager extends DefaultWebSessionManager {
     private Logger logger = LoggerFactory.getLogger(this.getClass());
