@@ -24,8 +24,8 @@ import java.util.LinkedHashMap;
 import java.util.Map;
 
 /**
- * @author dyb
- * @date 2019-11-27
+ * @author tycoding
+ * @date 2019-01-20
  */
 @Configuration
 public class ShiroConfig {
