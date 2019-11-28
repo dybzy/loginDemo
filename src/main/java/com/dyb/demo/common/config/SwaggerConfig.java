@@ -44,11 +44,8 @@ public class SwaggerConfig {
 
     private ApiInfo apiInfo() {
         return new ApiInfoBuilder()
-                .title("Permission-权限管理项目RESTful API")
-                .description("项目地址：https://github.com/TyCoding/permission")
-                .termsOfServiceUrl("http://tycoding.cn/")
-                .contact(new Contact("tycoding", "https://tycoding.cn", ""))
-                .version("v1.0")
+                .title("登录demo")//大标题
+                .version("1.0")//版本
                 .build();
     }
 
