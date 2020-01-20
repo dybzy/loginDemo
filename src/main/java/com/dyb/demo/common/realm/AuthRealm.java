@@ -22,6 +22,7 @@ import java.util.Set;
 import java.util.stream.Collectors;
 
 /**
+ * 自定义realm AuthorizingRealm负责授权，
  * @author tycoding
  * @date 2019-01-19
  */

@@ -4,6 +4,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
+ * rideskey值封装
  * @author dyb
  * @date 2019-11-27
  */

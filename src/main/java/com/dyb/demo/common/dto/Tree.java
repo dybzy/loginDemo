@@ -7,6 +7,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
+ * 树的节点
  * @author dyb
  * @date 2019-11-27
  */

@@ -13,6 +13,7 @@ import java.io.Serializable;
 import java.util.Date;
 
 /**
+ * 登录认证日志
  * @author dyb
  * @date 2019-11-27
  */

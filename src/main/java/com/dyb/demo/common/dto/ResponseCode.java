@@ -6,6 +6,7 @@ import lombok.AllArgsConstructor;
 import lombok.Data;
 
 /**
+ * 验证码
  * @author dyb
  * @date 2019-11-27
  */

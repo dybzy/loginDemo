@@ -4,6 +4,7 @@ import lombok.Getter;
 import lombok.Setter;
 
 /**
+ * msg提示枚举
  * @author dyb
  * @date 2019-11-27
  */
